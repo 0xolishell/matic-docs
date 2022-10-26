@@ -980,8 +980,8 @@ module.exports = {
   ],
   
   zkEVM: [
-    "zkEVM/overview",
     "zkEVM/develop",
+    "zkEVM/overview",
     "zkEVM/proof-of-efficiency",
     "zkEVM/zkNode",
     "zkEVM/Architecture/zkProver",
