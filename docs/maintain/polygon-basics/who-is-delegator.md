@@ -27,7 +27,7 @@ as they have enough to self-stake to stake on their own.
 
 :::
 
-Delegators have the option to re-delegate their tokens with other validators. Rewards are accumulated at every checkpoint.
+Delegators have the option to re-delegate their tokens to other validators. Rewards are accumulated at every checkpoint.
 
 :::tip Being an active delegator
 

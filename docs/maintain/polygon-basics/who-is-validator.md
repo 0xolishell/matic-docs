@@ -27,7 +27,7 @@ Validators on the Polygon network are selected through an on-chain auction proce
 
 Polygon relies on a set of [validators](../glossary#validator) to secure the network. The role of validators is to run a full node, [produce blocks](../glossary#block-producer), validate and participate in consensus, and commit [checkpoints](../glossary#checkpoint-transaction) on the Ethereum mainnet. To become a validator, one needs to [stake](../glossary#staking) their MATIC tokens with staking management contracts residing on the Ethereum mainnet.
 
-## Core compenents
+## Core components
 
 [Heimdall](../glossary#heimdall) reads the events emitted by the staking contracts to pick the validators for the current set with their updated stake ratio, which is used also by [Bor](../glossary#bor) while producing blocks.
 
