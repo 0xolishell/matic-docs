@@ -25,6 +25,7 @@ image: https://matic.network/banners/matic-network-16x9.png
 - [Integrating IPFS with Ethereum](https://www.quicknode.com/guides/web3-sdks/how-to-integrate-ipfs-with-ethereum)
 - [Hello World Smart Contract](https://docs.alchemy.com/alchemy/tutorials/hello-world-smart-contract)
 - [How to Create an NFT](https://docs.alchemy.com/alchemy/tutorials/how-to-create-an-nft)
+- [Lens Protocol | How to Create a Decentralized Twitter](https://docs.alchemy.com/docs/how-to-create-a-decentralized-twitter-with-lens-protocol)
 - [Truffle Tutorial](https://www.trufflesuite.com/tutorial)
 - [Dapp University](https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ)
 
@@ -34,7 +35,6 @@ image: https://matic.network/banners/matic-network-16x9.png
 - [Polygon's Architecture and Security](https://docs.polygon.technology/docs/home/architecture/security-models)
 - [When to use Plasma?](https://docs.polygon.technology/docs/home/architecture/security-models)
 - [Moving Assets from Ethereum to Polygon: the Plasma way](/docs/develop/ethereum-polygon/matic-js/get-started.md)
-- [Swapping Plasma Assets](https://docs.polygon.technology/docs/develop/advanced/swap-assets)
 - [Integrating Webhooks](https://docs.alchemy.com/alchemy/enhanced-apis/notify-api/using-notify)
 - [Archive Nodes with Debug namespace](https://www.quicknode.com/chains/matic?utm_source=polygon_docs&utm_campaign=ploygon_docs_contract_guide)
 
@@ -51,9 +51,11 @@ image: https://matic.network/banners/matic-network-16x9.png
 
 ## Useful Tutorials
 
+- [Alchemy University](http://university.alchemy.com)
 - [CryptoZombies](https://cryptozombies.io/)
 - [Ethernaut](https://ethernaut.openzeppelin.com/)
 - [Capture the Ether](https://capturetheether.com/)
+- [Road to Web 3](https://docs.alchemy.com/docs/welcome-to-the-road-to-web3)
 
 ## Additional Resources
 
