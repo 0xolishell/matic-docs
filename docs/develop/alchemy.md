@@ -2,7 +2,7 @@
 id: alchemy
 title: Create a Smart Contract using Alchemy
 sidebar_label: Using Alchemy
-description:  Guide to deploy smart contracts using Alchemy.
+description:  Guide to deploy smart contracts using Alchemy. It's free
 keywords:
   - docs
   - matic
@@ -22,9 +22,9 @@ If you have questions or concerns, please reach out to the [<ins>official Alchem
 ## What you will learn
 
 To create a smart contract in this tutorial, you will learn how to use Alchemy's platform to:
-- Create a smart contract application.
-- Check a wallet's balance.
-- Verify contract calls in an explorer.
+- Create a smart contract application
+- Check a wallet's balance
+- Verify contract calls in an explorer
 
 ## What you will do
 
@@ -33,13 +33,15 @@ Following the tutorial, you will:
 2. Create a wallet address with Metamask
 3. Add balance to the wallet
 4. Use Hardhat and Ethers.js to compile and deploy the project
-5. Check contract status on Alchemy's platform.
+5. Check contract status on Alchemy's platform
 
 ## Create and Deploy your Smart Contract using Hardhat
 
 ### Step 1: Connect to the Polygon network
 
-There are several ways to make requests to the Polygon PoS chain. Rather than running your own node, you will use a free account on Alchemy's developer platform and interact with the Alchemy Polygon PoS API to communicate with the Polygon PoS chain. The platform includes developer tooling to monitor requests and data analytics that demonstrate what happens under the hood during smart contract deployment. If you don’t already have an Alchemy account, start by signing up for free [here](https://alchemy.com/?a=polygon-docs).
+There are several ways to make requests to the Polygon PoS chain. Rather than running your own node, you will use a free account on Alchemy's developer platform and interact with the Alchemy Polygon PoS API to communicate with the Polygon PoS chain. The platform includes a full suite of developer tooling – this includes the ability to monitor requests, data analytics that demonstrate what happens under the hood during smart contract deployment, enhanced APIs (Transact, NFTs, etc), and an ethers.js SDK. 
+
+If you don’t already have an Alchemy account, start by signing up for a free account [here](https://www.alchemy.com/polygon/?a=polygon-docs). 
 
 ![img](/img/alchemy/alchemy-dashboard.png)
 
@@ -89,7 +91,9 @@ You can download and create a Metamask account for free [here](https://metamask.
 
 ### Step 4: Add Polygon Mumbai Test MATIC from a Faucet
 
-In order to deploy your smart contract to the test network, you need to obtain a few testnet tokens. To get testnet tokens, visit the [Polygon Mumbai Faucet](https://faucet.polygon.technology/), select "Mumbai", choose "MATIC Token", and enter your Polygon wallet address, then click “Submit.” It may take some time to receive your testnet tokens due to network traffic.
+In order to deploy your smart contract to the test network, you need to obtain a few testnet tokens. To get testnet tokens, visit the [Polygon Mumbai Faucet](https://faucet.polygon.technology/), select "Mumbai", choose "MATIC Token", and enter your Polygon wallet address, then click “Submit.” It may take some time to receive your testnet tokens due to network traffic. 
+
+You can also use Alchemy's [free Mumbai faucet](https://mumbaifaucet.com/?a=polygon-docs).
 
 ![img](/img/alchemy/faucet.png)
 
@@ -412,3 +416,8 @@ Alchemy provides an [explorer](https://dashboard.alchemyapi.io/explorer) where y
 ![img](/img/alchemy/calls.png)
 
 **Congratulations! You just deployed a smart contract to the Polygon chain.**
+
+### Bonus Step: Additional resources
+
+- [How to Develop an NFT Smart Contract](https://docs.alchemy.com/docs/how-to-develop-an-nft-smart-contract-erc721-with-alchemy) – Alchemy has a written tutorial with a Youtube video on this topic. This is week 1 of its free 10 week "Road to Web3" dev series
+- [Polygon API Quickstart](https://docs.alchemy.com/reference/polygon-api-quickstart) – Alchemy's developer docs' guide to getting up and running with Polygon
