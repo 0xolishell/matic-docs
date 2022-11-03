@@ -19,7 +19,7 @@ Ethereum is the foundation for a new era of the internet:
 But unlike other blockchains, Ethereum can do much more. Ethereum is programmable, which means that developers can use it to build new kinds of applications.
 
 These decentralized applications (or “dapps”) gain the benefits of cryptocurrency and blockchain technology. They can be trustworthy, meaning that once they are “uploaded” to Ethereum, they will always run as programmed. They can control digital assets in order to create new kinds of financial applications. They can be decentralized, meaning that no single entity or person controls them.
-### **:scroll:Resources**
+### **Resources**
 
-:book: [What is Ethereum?](https://ethereum.org/what-is-ethereum/) <br/>
-:books: [Ethereum](https://ethereum.org/)
+- [What is Ethereum?](https://ethereum.org/what-is-ethereum/) <br/>
+- [Ethereum](https://ethereum.org/)

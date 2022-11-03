@@ -11,7 +11,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 Polygon Network is a blockchain application platform that provides hybrid Proof-of-Stake and Plasma-enabled sidechains.
 
-Architecturally, the beauty of Polygon is its elegant design, which features a generic validation layer separated from varying execution environments like full-blown EVM sidechains, and in the future, other layer 2 approaches such as zero-knowledge rollups.
+Architecturally, the beauty of Polygon is its elegant design, which features a generic validation layer separated from varying execution environments like full-blown EVM sidechains and other layer 2 approaches such as zero-knowledge rollups.
 
 To enable the PoS mechanism on our platform, a set of **staking** management contracts are deployed on Ethereum, as well as a set of incentivized validators running **Heimdall** and **Bor** nodes. Ethereum is the first basechain Polygon supports, but Polygon intends to offer support for additional basechains, based on community suggestions and consensus, to enable an interoperable decentralized Layer 2 blockchain platform.
 

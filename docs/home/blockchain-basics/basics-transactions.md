@@ -10,7 +10,7 @@ image: https://matic.network/banners/matic-network-16x9.png
 ---
 
 The term “transaction” is used to refer to the signed data package that stores a message to be sent from an externally owned account to another account on the blockchain.
-Can be categorised into two main categories:
+It can be categorised into two main categories:
 
 **Value Transfer**
 
