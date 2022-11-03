@@ -29,3 +29,7 @@ to optimise for speed and decentralisation. We consciously architected the syste
 | **Withdrawal\(Polygon → Ethereum\)** | 1 checkpoint = ~ 30 mins to 6 hours                                                      | Call to the process-exit procedure on Ethereum's contract.                                |
 | **Security**                         | Proof\-of\-Stake system, secured by a robust set of external validators\.                | Polygon’s Plasma contracts piggybacks on Ethereum’s security.                             |
 | **Support Standards**                | ETH, ERC20, ERC721, ERC1155 and Others                                                   | Only ETH, ERC20, ERC721                                                                   |
+
+## Additional Resources
+
+- [What are Cross-Chain Bridges](https://www.alchemy.com/overviews/cross-chain-bridges)
