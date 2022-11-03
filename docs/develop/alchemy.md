@@ -2,7 +2,7 @@
 id: alchemy
 title: Create a Smart Contract using Alchemy
 sidebar_label: Using Alchemy
-description:  Guide to deploy smart contracts using Alchemy. It's free
+description:  Guide to deploy smart contracts using Alchemy.
 keywords:
   - docs
   - matic
