@@ -89,23 +89,54 @@ The `update` function is another public function that is similar to the constr
 
 - After successful compilation, it will show a green tick mark on the **Compiler** tab button
 
-- Now, We have to deploy our smart contract on Polygon Network. For that, we have to connect to the Web3 world which can be accomplished by using any of the services like Metamask, Brave, Portis etc. We will be using Metamask in this tutorial. Please follow this [guide to set up a Metamask Account](/docs/develop/metamask/hello).
+## Deploying to the Mumbai Testnet
 
-- Open Metamask. Click on the network dropdown menu (set to **Ethereum Mainnet** by default) and click on **Add Network** button
+Now, we have to deploy our smart contract on Mumbai, Polygon Network's testnet. Not only does it cost money (e.g., gas fees) to deploy a smart contract on Polygon mainnet, but also, the contract is immutable and can't be changed once deployed. Therefore, it's best to first deploy your smart contract to the testnet first. 
+
+To deploy to the Mumbai testnet, we have to connect to the Web3 world which can be accomplished by using any of the services like Metamask, Brave, Portis etc. We will be using Metamask in this tutorial. Please follow this [guide to set up a Metamask Account](/docs/develop/metamask/hello).
+
+- Open Metamask. Click on the network dropdown menu (set to **Ethereum Mainnet** by default) and click on **Add Network** button. MaticVigil provides a public endpoint and is rate-limited. Therefore, most developers use a free blockchain provider like [Alchemy](https://docs.alchemy.com/docs/how-to-add-polygon-to-metamask) or [Quicknode](https://quicknode.com) to have a dedicated RPC endpoint with faster throughput AKA computing units per second ("CUPs"). You just need to first create a free account to get your free private API key from one of these providers to put into the below dedicated RPC endpoint URL. 
 
   - **Network:** Polygon Mumbai Testnet
-  - **New RPC URL:** https://rpc-mumbai.maticvigil.com
+  - **RPC URL (public endpoint):** https://rpc-mumbai.maticvigil.com.
+  - **RPC URL (dedicated endpoint):** https://polygon-mumbai.g.alchemy.com/v2/your-api-key. You'll need a [free API key](https://docs.alchemy.com)
   - **Chain ID:** 80001
   - **Currency Symbol:** MATIC
   - **Block Explorer URL:** https://mumbai.polygonscan.com/
 
 - Go ahead and click **Save**
 
-- Copy your wallet address from Metamask by clicking over your account name.
+- Copy your wallet address from Metamask by clicking over your account name
 
-- Head over to [Faucet](https://faucet.polygon.technology/) and request test MATIC - you will need this pay for gas on Polygon network. Select **Mumbai** as the network and **MATIC Token** as the token in the faucet.
+- Head over to [Faucet](https://faucet.polygon.technology/) and request test MATIC - you will need this pay for gas on Polygon network. Select **Mumbai** as the network and **MATIC Token** as the token in the faucet. You can also use this free [Mumbai faucet](https://mumbaifaucet.com)
 
-- Now, let's deploy the Smart Contract on Polygon Network
+- Finally, to deploy to Mumbai, refer to the instructions in the "Remix deployment" section below
+ 
+## Deploying to Polygon Mainnet
+
+After you can deploy on the Mumbai testnet withnot any errors (i.e., the purpose of the testnet), let's deploy the Smart Contract on Polygon mainnet. Remember this will cost real $ in the form of MATIC tokens.
+
+Similar to the steps above when you deployed to Mumbai, you open your Metamask wallet. Click on the network dropdown menu (set to **Ethereum Mainnet** by default) and click on **Add Network** button. Make sure to have your [Alchemy API key](https://docs.alchemy.com).
+
+- Open Metamask
+
+  - **Network Name**: Polygon Mainnet
+  - **New RPC URL**: https://polygon-mainnet.g.alchemy.com/v2/your-api-key
+  - **Chain ID**: 137
+  - **Currency Symbol**: MATIC
+  - **Block Explorer URL**: https://polygonscan.com/
+
+- Go ahead and click **Save**
+
+- Copy your wallet address from Metamask by clicking over your account name
+
+- Make sure your Metamask wallet has Matic tokens to pay the deployment / gas fees
+
+- Finally, to deploy to Mumbai, refer to the instructions in the "Remix deployment" section below
+
+## Remix Deployment
+
+In both testnet and mainnet, you do the below to deploy your smart contract using Remix. The below step will use the connect Metamask API keys you set up in the previous steps. 
 
 - Select **Injected Provider** Metamask in the **Environment** dropdown and your contract
 
@@ -135,7 +166,7 @@ The `update` function is another public function that is similar to the constr
 
 <br/>
 
-**Congratulations! You have successfully deployed the **HelloWorld** Smart Contract.** You can start interacting with your Smart Contract. Check the deployment status at https://mumbai.polygonscan.com/.
+**Congratulations! You have successfully deployed the **HelloWorld** Smart Contract to the Mumbai, Polygon's testnet.** You can start interacting with your Smart Contract. Check the deployment status at https://mumbai.polygonscan.com/.
 
 ## Verifying your Contract
 
