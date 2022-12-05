@@ -136,7 +136,7 @@ Similar to the steps above when you deployed to Mumbai, you open your Metamask w
 
 ## Remix Deployment
 
-In both testnet and mainnet, you do the below to deploy your smart contract using Remix. The below step will use the connect Metamask API keys you set up in the previous steps. 
+In both Testnet and Mainnet, you do the below to deploy your smart contract using Remix. The below step will use the connect Metamask API keys you set up in the previous steps. 
 
 - Select **Injected Provider** Metamask in the **Environment** dropdown and your contract
 
