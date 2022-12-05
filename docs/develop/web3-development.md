@@ -18,7 +18,7 @@ image: https://wiki.polygon.technology/img/polygon-wiki.png
 - [ConsenSys Academy Developer Program On-Demand course](https://consensys.net/academy/ondemand/)
 - [Dapp University](https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ)
 
-**Smart Contract & Token Tutorials
+## Smart Contract & Token Tutorials
 - [Hello World, smart contract tutorial](https://docs.alchemy.com/alchemy/tutorials/hello-world-smart-contract)
 - [Deploy a smart contract using REMIX IDE](https://www.quicknode.com/guides/solidity/how-to-deploy-a-smart-contract-on-matic-polygon)
 - [How to create a token (ERC20)](https://www.quicknode.com/guides/solidity/how-to-create-and-deploy-an-erc20-token)
