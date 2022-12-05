@@ -166,7 +166,7 @@ In both testnet and mainnet, you do the below to deploy your smart contract usin
 
 <br/>
 
-**Congratulations! You have successfully deployed the **HelloWorld** Smart Contract to the Mumbai, Polygon's testnet.** You can start interacting with your Smart Contract. Check the deployment status at https://mumbai.polygonscan.com/.
+**Congratulations! You have successfully deployed the **HelloWorld** Smart Contract to the **Polygon Mumbai Testnet** You can start interacting with your Smart Contract. Check the deployment status at https://mumbai.polygonscan.com/.
 
 ## Verifying your Contract
 
