@@ -13,16 +13,37 @@ keywords:
 image: https://wiki.polygon.technology/img/polygon-wiki.png
 ---
 
-- [Full stack dapp tutorial series](https://kauri.io/#collections/Full%20Stack%20dApp%20Tutorial%20Series/full-stack-dapp-tutorial-series-intro/)
-- [Web3 developer Stack](https://www.quicknode.com/guides/web3-sdks/the-web3-developer-stack)
+**Learn Web3 Programs
+- [Alchemy University (free)](https://university.alchemy.com)
+- [ConsenSys Academy Developer Program On-Demand course](https://consensys.net/academy/ondemand/)
+- [Dapp University](https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ)
+
+**Smart Contract & Token Tutorials
+- [Hello World, smart contract tutorial](https://docs.alchemy.com/alchemy/tutorials/hello-world-smart-contract)
 - [Deploy a smart contract using REMIX IDE](https://www.quicknode.com/guides/solidity/how-to-deploy-a-smart-contract-on-matic-polygon)
 - [How to create a token (ERC20)](https://www.quicknode.com/guides/solidity/how-to-create-and-deploy-an-erc20-token)
-- [Integrating IPFS with Ethereum](https://www.quicknode.com/guides/web3-sdks/how-to-integrate-ipfs-with-ethereum)
-- [Hello World Smart Contract](https://docs.alchemy.com/alchemy/tutorials/hello-world-smart-contract)
-- [How to Create an NFT](https://docs.alchemy.com/alchemy/tutorials/how-to-create-an-nft)
+- [How to create an NFT](https://docs.alchemy.com/alchemy/tutorials/how-to-create-an-nft)
+
+**General Tutorials
+- [Full stack dapp tutorial series](https://kauri.io/#collections/Full%20Stack%20dApp%20Tutorial%20Series/full-stack-dapp-tutorial-series-intro/)
 - [Truffle tutorial](https://www.trufflesuite.com/tutorial)
-- [Dapp University](https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ)
-- [ConsenSys Academy Developer Program On-Demand course](https://consensys.net/academy/ondemand/)
+
+**Basics of Ethereum Development
+- [Web3 developer stack](https://www.quicknode.com/guides/web3-sdks/the-web3-developer-stack)
+- [Integrating IPFS with Ethereum](https://www.quicknode.com/guides/web3-sdks/how-to-integrate-ipfs-with-ethereum)
 - [What is Ethereum?](https://blockgeeks.com/guides/ethereum/)
-- [Read Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)
-- [OpenZeppelin Learn Docs](https://docs.openzeppelin.com/learn/)
+- [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)
+- [OpenZeppelin learn docs](https://docs.openzeppelin.com/learn/)
+- [Getting started with Ethereum development](https://medium.com/alchemy-api/getting-started-with-ethereum-development-using-alchemy-c3d6a45c567f)
+
+
+
+
+
+
+
+
+
+
+
+
