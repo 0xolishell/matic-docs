@@ -1061,6 +1061,7 @@ module.exports = {
       },
       items: [
         "nightfall/deployments/versions",
+        "nightfall/deployments/sandbox",
         "nightfall/deployments/mainnet",
         "nightfall/deployments/testnet",
       ],
