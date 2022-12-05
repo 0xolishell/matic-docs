@@ -91,7 +91,7 @@ The `update` function is another public function that is similar to the constr
 
 ## Deploying to the Mumbai Testnet
 
-Now, we have to deploy our smart contract on Mumbai, Polygon Network's testnet. Not only does it cost money (e.g., gas fees) to deploy a smart contract on Polygon mainnet, but also, the contract is immutable and can't be changed once deployed. Therefore, it's best to first deploy your smart contract to the testnet first. 
+Now, we have to deploy our smart contract on Mumbai, Polygon Network's Testnet. Not only does it cost money (e.g., gas fees) to deploy a smart contract on Polygon Mainnet, but also, the contract is immutable and can't be changed once deployed. Therefore, it's best to first deploy your smart contract to the Testnet first. 
 
 To deploy to the Mumbai testnet, we have to connect to the Web3 world which can be accomplished by using any of the services like Metamask, Brave, Portis, etc. We will be using Metamask in this tutorial. Please follow this [guide to set up a Metamask Account](/docs/develop/metamask/hello).
 
