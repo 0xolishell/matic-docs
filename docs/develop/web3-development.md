@@ -28,7 +28,7 @@ image: https://wiki.polygon.technology/img/polygon-wiki.png
 - [Full stack dApp tutorial series](https://kauri.io/#collections/Full%20Stack%20dApp%20Tutorial%20Series/full-stack-dapp-tutorial-series-intro/)
 - [Truffle tutorial](https://www.trufflesuite.com/tutorial)
 
-**Basics of Ethereum Development
+## Basics of Ethereum Development
 - [Web3 developer stack](https://www.quicknode.com/guides/web3-sdks/the-web3-developer-stack)
 - [Integrating IPFS with Ethereum](https://www.quicknode.com/guides/web3-sdks/how-to-integrate-ipfs-with-ethereum)
 - [What is Ethereum?](https://blockgeeks.com/guides/ethereum/)
