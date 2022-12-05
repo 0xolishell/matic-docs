@@ -114,7 +114,7 @@ To deploy to the Mumbai testnet, we have to connect to the Web3 world which can 
  
 ## Deploying to Polygon Mainnet
 
-After you can deploy on the Mumbai testnet withnot any errors (i.e., the purpose of the testnet), let's deploy the Smart Contract on Polygon mainnet. Remember this will cost real $ in the form of MATIC tokens.
+After you can deploy on the Mumbai Testnet without any errors (i.e., the purpose of the Testnet), let's deploy the Smart Contract on the Polygon Mainnet. Remember this will cost real $ in the form of MATIC tokens.
 
 Similar to the steps above when you deployed to Mumbai, you open your Metamask wallet. Click on the network dropdown menu (set to **Ethereum Mainnet** by default) and click on **Add Network** button. Make sure to have your [Alchemy API key](https://docs.alchemy.com).
 
