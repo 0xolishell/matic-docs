@@ -130,7 +130,7 @@ Similar to the steps above when you deployed to Mumbai, you open your Metamask w
 
 - Copy your wallet address from Metamask by clicking over your account name
 
-- Make sure your Metamask wallet has Matic tokens to pay the deployment / gas fees
+- Make sure your Metamask wallet has MATIC tokens to pay the deployment / gas fees
 
 - Finally, to deploy to Mumbai, refer to the instructions in the "Remix deployment" section below
 
