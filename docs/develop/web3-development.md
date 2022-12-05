@@ -25,7 +25,7 @@ image: https://wiki.polygon.technology/img/polygon-wiki.png
 - [How to create an NFT](https://docs.alchemy.com/alchemy/tutorials/how-to-create-an-nft)
 
 **General Tutorials
-- [Full stack dapp tutorial series](https://kauri.io/#collections/Full%20Stack%20dApp%20Tutorial%20Series/full-stack-dapp-tutorial-series-intro/)
+- [Full stack dApp tutorial series](https://kauri.io/#collections/Full%20Stack%20dApp%20Tutorial%20Series/full-stack-dapp-tutorial-series-intro/)
 - [Truffle tutorial](https://www.trufflesuite.com/tutorial)
 
 **Basics of Ethereum Development
