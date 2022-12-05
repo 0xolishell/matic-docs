@@ -24,7 +24,7 @@ image: https://wiki.polygon.technology/img/polygon-wiki.png
 - [How to create a token (ERC20)](https://www.quicknode.com/guides/solidity/how-to-create-and-deploy-an-erc20-token)
 - [How to create an NFT](https://docs.alchemy.com/alchemy/tutorials/how-to-create-an-nft)
 
-**General Tutorials
+## General Tutorials
 - [Full stack dApp tutorial series](https://kauri.io/#collections/Full%20Stack%20dApp%20Tutorial%20Series/full-stack-dapp-tutorial-series-intro/)
 - [Truffle tutorial](https://www.trufflesuite.com/tutorial)
 
