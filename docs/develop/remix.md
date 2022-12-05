@@ -93,7 +93,7 @@ The `update` function is another public function that is similar to the constr
 
 Now, we have to deploy our smart contract on Mumbai, Polygon Network's testnet. Not only does it cost money (e.g., gas fees) to deploy a smart contract on Polygon mainnet, but also, the contract is immutable and can't be changed once deployed. Therefore, it's best to first deploy your smart contract to the testnet first. 
 
-To deploy to the Mumbai testnet, we have to connect to the Web3 world which can be accomplished by using any of the services like Metamask, Brave, Portis etc. We will be using Metamask in this tutorial. Please follow this [guide to set up a Metamask Account](/docs/develop/metamask/hello).
+To deploy to the Mumbai testnet, we have to connect to the Web3 world which can be accomplished by using any of the services like Metamask, Brave, Portis, etc. We will be using Metamask in this tutorial. Please follow this [guide to set up a Metamask Account](/docs/develop/metamask/hello).
 
 - Open Metamask. Click on the network dropdown menu (set to **Ethereum Mainnet** by default) and click on **Add Network** button. MaticVigil provides a public endpoint and is rate-limited. Therefore, most developers use a free blockchain provider like [Alchemy](https://docs.alchemy.com/docs/how-to-add-polygon-to-metamask) or [Quicknode](https://quicknode.com) to have a dedicated RPC endpoint with faster throughput AKA computing units per second ("CUPs"). You just need to first create a free account to get your free private API key from one of these providers to put into the below dedicated RPC endpoint URL. 
 
