@@ -108,7 +108,7 @@ To deploy to the Mumbai testnet, we have to connect to the Web3 world which can 
 
 - Copy your wallet address from Metamask by clicking over your account name
 
-- Head over to [Faucet](https://faucet.polygon.technology/) and request test MATIC - you will need this pay for gas on Polygon network. Select **Mumbai** as the network and **MATIC Token** as the token in the faucet. You can also use this free [Mumbai faucet](https://mumbaifaucet.com)
+- Head over to [Faucet](https://faucet.polygon.technology/) and request test MATIC - you will need this to pay for gas on the Polygon network. Select **Mumbai** as the network and **MATIC Token** as the token in the faucet. You can also use this free [Mumbai faucet](https://mumbaifaucet.com)
 
 - Finally, to deploy to Mumbai, refer to the instructions in the "Remix deployment" section below
  
