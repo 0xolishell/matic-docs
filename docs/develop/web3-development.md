@@ -13,7 +13,7 @@ keywords:
 image: https://wiki.polygon.technology/img/polygon-wiki.png
 ---
 
-**Learn Web3 Programs
+## Learn Web3 Programs
 - [Alchemy University (free)](https://university.alchemy.com)
 - [ConsenSys Academy Developer Program On-Demand course](https://consensys.net/academy/ondemand/)
 - [Dapp University](https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ)
