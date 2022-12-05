@@ -33,7 +33,7 @@ image: https://wiki.polygon.technology/img/polygon-wiki.png
 - [Integrating IPFS with Ethereum](https://www.quicknode.com/guides/web3-sdks/how-to-integrate-ipfs-with-ethereum)
 - [What is Ethereum?](https://blockgeeks.com/guides/ethereum/)
 - [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)
-- [OpenZeppelin learn docs](https://docs.openzeppelin.com/learn/)
+- [OpenZeppelin Learn Docs](https://docs.openzeppelin.com/learn/)
 - [Getting started with Ethereum development](https://medium.com/alchemy-api/getting-started-with-ethereum-development-using-alchemy-c3d6a45c567f)
 
 
